@@ -16,7 +16,7 @@ GET `/status`
 
 Returns the status of the API.
 
-### Single student student in details###
+### Single student student in details
 
 GET `api/studentsDetails/169`
 
