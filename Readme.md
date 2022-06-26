@@ -1,8 +1,6 @@
 # Student Report API
-
-
-
-## [Click here to see the report](https://glitchmemahmud.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb3e22c9-e7fc-4eb5-a12f-a0dfb2ee4b87/deploy-status)](https://app.netlify.com/sites/mahmud-studentapi/deploys)
+## [Click here to see the report](https://mahmud-studentapi.netlify.app/)
 
 ## Endpoints
 
