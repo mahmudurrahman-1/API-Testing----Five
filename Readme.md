@@ -1,7 +1,6 @@
 # Student Report API
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e73ed186-e18e-48ed-ad8c-729b16ea9907/deploy-status)](https://app.netlify.com/sites/glitchmemahmud/deploys)
-This API allows to reserve report of students
+
 
 ## [Click here to see the report](https://glitchmemahmud.netlify.app/)
 
